@@ -1,5 +1,8 @@
 # MachineLearning
 
+btjones-me: This is another one of those I fully intend to get around to learning and I hope that in forking it I will be slightly more likely to get around to it..
+
+
 This is where I learn machine learning🤷‍ This means that this repo covers no specific topic of machine learning or a project - I work in here when I want to learn/try something
 
 I'll try to keep it orgamised but I don't want it to be too nested because that becomes a pain to navigate, instead I'll try to keet the table of content up-to-date.
